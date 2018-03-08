@@ -1,0 +1,81 @@
+#1st square
+
+- tile_type: blank
+  tile_center: [0.5, 0.5]
+
+- tile_type: road_east_north2
+  tile_center: [1.5, 0.5]
+
+- tile_type: road_west_south2
+  tile_center: [2.5, 0.5]
+
+- tile_type: road_east_west2
+  tile_center: [0.5, 1.5]
+
+- tile_type: road_west_south2
+  tile_center: [1.5, 1.5]
+
+
+#2nd square
+
+- tile_type: road_north_south2
+  tile_center: [-0.5, 0.5]
+
+- tile_type: blank
+  tile_center: [-1.5, 0.5]
+
+- tile_type: road_north_south2
+  tile_center: [-2.5, 0.5]
+
+- tile_type: road_3way_intersection_west_south_east2
+  tile_center: [-0.5, 1.5]
+
+- tile_type: road_east_west2
+  tile_center: [-1.5, 1.5]
+
+- tile_type: road_south_east2
+  tile_center: [-2.5, 1.5]
+
+
+
+ #3rd square
+
+- tile_type: road_4way_intersection2
+  tile_center: [-0.5, -0.5]
+
+- tile_type: road_east_west2
+  tile_center: [-1.5, -0.5]
+
+- tile_type: road_3way_intersection_north_south_east2
+  tile_center: [-2.5, -0.5]
+
+- tile_type: road_north_west2
+  tile_center: [-0.5, -1.5]
+
+- tile_type: road_east_west2
+  tile_center: [-1.5, -1.5]
+
+- tile_type: road_east_north2
+  tile_center: [-2.5, -1.5]
+
+
+
+  #4th square
+
+- tile_type: road_west_south2
+  tile_center: [0.5, -0.5]
+
+- tile_type: blank
+  tile_center: [1.5, -0.5]
+
+- tile_type: road_north_south2
+  tile_center: [2.5, -0.5]
+
+- tile_type: road_east_north2
+  tile_center: [0.5, -1.5]
+
+- tile_type: road_east_west2
+  tile_center: [1.5, -1.5]
+
+- tile_type: road_north_west2
+  tile_center: [2.5, -1.5]
